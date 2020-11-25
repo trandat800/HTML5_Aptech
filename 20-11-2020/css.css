@@ -1,0 +1,16 @@
+#tableSong, tr, td, th {
+    border: 1px solid red;
+    border-collapse: collapse;
+    border-spacing: 0px;
+}
+td, th {
+    padding: 10px;
+}
+#tableSong {
+    margin: auto;
+    width: 80%;
+    margin-top: 10px;
+}
+td {
+    text-align: center;
+}
